@@ -18,11 +18,11 @@ namespace HealthMgr
 
         public float Calculate()
         {
+            //github auto build
             float result = 0;
             //將 float 改成 int 試試看
             float height = (float)Height / 100;
             result = Weight / (height * height);
-
             return result;
         }
     }
