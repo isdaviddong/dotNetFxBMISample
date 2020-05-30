@@ -16,7 +16,6 @@ namespace HealthMgr
             }
         }
 
-
         public float Calculate()
         {
             float result = 0;
